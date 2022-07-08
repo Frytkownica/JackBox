@@ -1,0 +1,35 @@
+{
+    "localized": "true",
+    "items": [
+        {
+            "title":"Grej",
+            "action":"doPlayGame",
+            "description":"PLAY_DESCRIPTION",
+            "value":0
+        },
+        {
+            "title":"Zrób_własne",
+            "action":"doUGC",
+            "description":"UGC_MAKE_YOUR_OWN_DESCRIPTION",
+            "value":1
+        },
+        {
+            "title":"Dodatki",
+            "action":"doUGCFeatured",
+            "description":"UGC_FEATURED_DESCRIPTION",
+            "value":2
+        },
+        {
+            "title":"Ustawienia",
+            "action":"doSettings",
+            "description":"SETTINGS_DESCRIPTION",
+            "value":3
+        },
+        {
+            "title":"Wróć",
+            "action":"doBackToPack",
+            "description":"BACK_TO_PACK_DESCRIPTION",
+            "value":4
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "payload":[
+        { "determiner": "mający" },
+        { "determiner": "pijący" },
+        { "determiner": "pragnący" },
+        { "determiner": "potrzebujący" },
+        { "determiner": "porządający" },
+        { "determiner": "podążający" },
+        { "determiner": "pogrążający" },
+        { "determiner": "ociekający" },
+		{ "determiner": "nienawidzący" },
+        { "determiner": "pachnący" }
+    ]
+}
